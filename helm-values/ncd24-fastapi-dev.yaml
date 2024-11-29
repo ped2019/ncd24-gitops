@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/ped2019/ncd24-fastapi
-  tag: dev-dbafc84
+  tag: dev-5300b07
   pullPolicy: Always
 probe:
   enabled: true
